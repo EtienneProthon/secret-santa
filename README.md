@@ -1,13 +1,13 @@
 # secret-santa
 
-This is a project to test [Dioxus](https://dioxuslabs.com)
+This is a project to test [Dioxus](https://dioxuslabs.com)  
 It use [Tailwindcss](https://tailwindcss.com) and [daisyUI](https://daisyui.com)
 
 ## Setup
 
 - [Install rust](https://www.rust-lang.org/tools/install)
 
-```
+```bash
 cargo install dioxus-cli
 rustup target add wasm32-unknown-unknown
 dioxus serve
